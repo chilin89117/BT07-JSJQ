@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "Linkit jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Chi Lin",
+        "url": "http://saharadb.com"
+    },
+    "maintainers": [
+        {
+            "name": "Chi Lin",
+            "email": "chilin89117@gmail.com",
+            "url": "http://saharadb.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/chilin89117/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/chilin89117/jquery.linkit",
+    "docs": "https://github.com/chilin89117/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
